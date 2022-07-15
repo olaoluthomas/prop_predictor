@@ -1,0 +1,10 @@
+README.md
+setup.py
+prop_predict.egg-info/PKG-INFO
+prop_predict.egg-info/SOURCES.txt
+prop_predict.egg-info/dependency_links.txt
+prop_predict.egg-info/requires.txt
+prop_predict.egg-info/top_level.txt
+prop_predict.egg-info/zip-safe
+proppredict/__init__.py
+proppredict/predictor.py
