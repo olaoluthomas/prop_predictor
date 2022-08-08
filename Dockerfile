@@ -2,7 +2,8 @@ FROM python:3.7.13-slim
 
 LABEL version="v0.1-dev1"
 LABEL maintainer="Simeon Thomas"
-LABEL maintaineremail="simeon.thomas@bedbath.com"
+LABEL maintaineremail="thomasolaoluwa@gmail.com"
+LABEL org.opencontainers.image.source https://github.com/olaoluthomas/prop_predictor
 
 # to show print statements and logs to display in Knative logs
 ENV PYTHONUNBUFFERED True
